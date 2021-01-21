@@ -42,6 +42,6 @@
   "homepage": "https://github.com/wolfhaltz/chat_node_js_with_laravel_2020#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
